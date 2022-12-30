@@ -18,4 +18,4 @@
 
 <h2><h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=matthew-woodington&show_icons=true&theme=transparen" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=matthew-woodington&show_icons=true&theme=transparent" />
