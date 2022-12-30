@@ -15,3 +15,7 @@
 - 📂 Check out all of my projects on [matthew-woodington.com](https://matthew-woodington.com/)
 
 - 🔗 Reach me via email @**smwoodington@gmail.com** or find me on [LinkedIn](https://linkedin.com/in/matthew-woodington)
+
+<h2><h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=matthew-woodington&show_icons=true&theme=transparen" />
