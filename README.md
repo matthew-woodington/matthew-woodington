@@ -20,4 +20,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=matthew-woodington&show_icons=true&theme=transparent" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matthew-woodington&theme=github-dark-blue" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matthew-woodington&theme=transparent" />
