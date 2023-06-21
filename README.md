@@ -30,8 +30,6 @@ Tech I am currently learning ↓
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=matthew-woodington&show_icons=true&theme=github_dark" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=matthew-woodington&theme=github-dark-blue" />
   
 </p>
